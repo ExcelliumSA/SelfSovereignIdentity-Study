@@ -1,6 +1,6 @@
 # SelfSovereignIdentity-Study
 
-Contains the materials used for the blog post about Self Sovereign Identity.
+Contains the materials used for the blog post about [Self Sovereign Identity](https://damienbod.com/2021/03/29/getting-started-with-self-sovereign-identity-ssi/).
 
 # Blog post link
 
