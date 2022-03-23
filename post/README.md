@@ -66,3 +66,18 @@ sequenceDiagram
     end
 ```
 
+### Figure10
+
+```mermaid
+flowchart LR
+    id1((User Alice)) --- id2{SSI 1} --- id3[(Blockchain)]
+    id4((User Bob)) --- id5{SSI 2} --- id3[(Blockchain)]
+```
+
+### Figure11
+
+```mermaid
+flowchart LR
+    id1((User Alice)) --- id2{SSI 1} --- id3[(Blockchain)]
+    id4((User Bob)) --- id2
+```
