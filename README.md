@@ -4,7 +4,7 @@ Contains the materials used for the blog post about [Self Sovereign Identity](ht
 
 # Blog post link
 
-XXX
+https://excellium-services.com/2022/06/29/self-sovereign-identity-ssi-from-a-security-perspective/
 
 # Study note
 
